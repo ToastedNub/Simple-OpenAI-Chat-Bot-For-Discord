@@ -10,9 +10,7 @@ client = discord.Client(intents=intents)
 
 conversation_log = [
     "ADD YOUR PERSONALITY HERE",
-
-    "ADD YOUR PERSONALITY HERE",
-    
+    "ADD YOUR PERSONALITY HERE",    
     "ADD YOUR PERSONALITY HERE"
 ]
 
