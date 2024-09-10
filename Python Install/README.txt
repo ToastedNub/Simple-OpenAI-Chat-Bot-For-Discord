@@ -1,0 +1,1 @@
+Run "Python" to be auto directed to the Python download link that you need for this script to work.
