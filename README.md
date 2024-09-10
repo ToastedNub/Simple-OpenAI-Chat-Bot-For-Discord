@@ -2,7 +2,7 @@
 A simple single script bot that uses OpenAI for its responses.
 
 
- - THIS IS A SIMPLE PYTHON SCRIPT TO RUN YOUR OWN BOT SIMILAR TO MINE, EXCEPT YOU DONT NEED TO HAVE YOUR OWN DATABANK FOR THIS ONE, THIS ONE IS ALL FROM OPENAI, DATABANKS TAKE YEARS TO CREATE -
+ - THIS IS A SIMPLE PYTHON SCRIPT TO RUN YOUR OWN BOT SIMILAR TO MINE, EXCEPT YOU DONT NEED TO HAVE YOUR OWN DATABANK FOR THIS ONE, THIS ONE IS ALL FROM OPENAI, DATABANKS TAKE YEARS TO CREATE!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
